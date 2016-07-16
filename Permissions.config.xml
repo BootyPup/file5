@@ -11,6 +11,9 @@
         <Permission Cooldown="0">p</Permission>
         <Permission Cooldown="0">compass</Permission>
         <Permission Cooldown="0">rocket</Permission>
+        <Permission Cooldown="500">/kit Starter</Permission>
+        <Permission Cooldown="1000">/kit Brute Force</Permission>
+        <Permission Cooldown="1500">/kit Watcher</Permission>
       </Permissions>
     </Group>
     <Group>
