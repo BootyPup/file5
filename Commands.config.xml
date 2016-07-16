@@ -58,7 +58,7 @@
     <Command Name="effect" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandEffect/effect</Command>
     <Command Name="exit" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandExit/exit</Command>
     <Command Name="god" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandGod/god</Command>
-    <Command Name="heal" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandHeal/heal</Command>
+    <Command Name="heal" Enabled="false" Priority="Normal">Rocket.Unturned.Commands.CommandHeal/heal</Command>
     <Command Name="help" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandHelp/help</Command>
     <Command Name="home" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandHome/home</Command>
     <Command Name="i" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandI/i</Command>
